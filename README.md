@@ -1,7 +1,7 @@
 # TP1DPBO2025C1
 # Janji
-Saya Nashwa Nadria Futi dengan NIM 2308130 mengerjakan Latihan Praktikum 1 dalam mata kuliah DPBO
-untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+*Saya Nashwa Nadria Futi dengan NIM 2308130 mengerjakan Latihan Praktikum 1 dalam mata kuliah DPBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 # Deskripsi Kode
 Terdapat 1 class Petshop yang memiliki 4 atribut utama:
@@ -13,7 +13,7 @@ Terdapat 1 class Petshop yang memiliki 4 atribut utama:
 Class ini berfungsi sebagai blueprint untuk membuat objek produk petshop dengan metode getter dan setter untuk mengakses dan memodifikasi atributnya.
 
 # Alur Program
-* Program dimulai dengan menampilkan menu utama tanpa ada salam pembuka khusus.
+* Program dimulai dengan menampilkan menu utama.
 * Tidak ada batasan jumlah data yang bisa dimasukkan. Pengguna bebas menambah produk sebanyak yang diinginkan.
 * Program menyediakan 6 menu utama yang dapat dipilih pengguna:
 
