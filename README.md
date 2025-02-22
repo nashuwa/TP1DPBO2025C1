@@ -17,12 +17,12 @@ Class ini berfungsi sebagai blueprint untuk membuat objek produk petshop dengan 
 * Tidak ada batasan jumlah data yang bisa dimasukkan. Pengguna bebas menambah produk sebanyak yang diinginkan.
 * Program menyediakan 6 menu utama yang dapat dipilih pengguna:
 
-* 1 | Tambah Produk → Menambah data produk baru.
-* 2 | Tampilkan Produk → Menampilkan semua data produk yang tersedia.
-* 3 | Update Produk → Mengubah data produk berdasarkan ID.
-* 4 | Hapus Produk → Menghapus produk berdasarkan ID.
-* 5 | Cari Produk → Mencari produk berdasarkan Nama.
-* 6 | Keluar → Mengakhiri program.
+1. Tambah Produk → Menambah data produk baru.
+2. Tampilkan Produk → Menampilkan semua data produk yang tersedia.
+3. Update Produk → Mengubah data produk berdasarkan ID.
+4. Hapus Produk → Menghapus produk berdasarkan ID.
+5. Cari Produk → Mencari produk berdasarkan Nama.
+6. Keluar → Mengakhiri program.
 
 # Aturan Program
 * ID sebagai acuan utama. Saat melakukan Tambah Produk, program akan memeriksa apakah ID sudah ada di daftar. Jika ada, maka akan muncul pesan error: Error: ID sudah ada. Gunakan ID unik.
